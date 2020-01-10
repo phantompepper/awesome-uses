@@ -1889,6 +1889,31 @@ const pages = [
     phone: 'iphone',
     tags: ['Think', 'Apply'],
   },
+  {
+    name: 'Grant Chambers',
+    description: 'Husband 👨, Father 👶, Developer 💻, Musician 🎸, Colorado USA 🌄',
+    url: 'https://gchambers.me/uses',
+    twitter: '@ChambersGrant',
+    emoji: '🚀',
+    country: '🇺🇸',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'Front End',
+      'Javascript',
+      'Vue',
+      'SVG',
+      'CSS',
+      'SASS',
+      '.Net',
+      'C#',
+      'Cypress.io',
+      'QA Engineer',
+      'Bluegrass',
+      'Guitar',
+      'Mandolin'
+    ],
+  }
 ];
 
 export default pages;
